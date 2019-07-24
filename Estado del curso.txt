@@ -1,0 +1,19 @@
+Primeros pasos JS - OK
+
+JS en profundidad: - OK
+- DOM
+- BOM
+- Eventos
+- JSON
+- LocalStorage
+- Fetch y promesas(Apis)
+
+Primeros pasos con JQuery
+- Selectores
+- Eventos en jQuery
+- Efectos, animaciones y más.. 
+- Peticiones AJAX en jQuey
+- Primeros pasos con jQuery UI
+ °interacciones
+ °Animaciones y efectos
+- Plugins y Widgets

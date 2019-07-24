@@ -1,0 +1,23 @@
+alert("Texto en forma de alerta");
+document.write("Texto que se imprimira en la página");
+console.log("Comentarios que se mostraran en la consola");
+'use strict' -> activar modo estricto para evitar malas practicas de programación como lo puede ser asignar valor a variables sin declarar.
+
+var nombre_var = valor; -> Definir variable con alcance global
+let nombre_var = valor; -> Definir variable con alcance solo en el bloque donde se defina
+const nombre_var = valor; -> Definir constante, Variable que no se podrá modificar en el desarrollo del código.
+
+Number(var) = convierte string a número "3" => 3.
+parseFloat(var) = Convierte y muestra decimales
+parseInt(var) = Convierte a entero
+String(var) = Cnvierte contenido de var a texto
+typeof = Tipo de dato exacto de la variable console.log(typeof variable);
+
+break = rompe ejecución del ciclo
+
+alert("Texto a mostrar");
+confirm("Texto solicitando confirmación") *Da como resultado false o true lo cual se puede guardar en una variable.
+prompt("Solicitud de datos", 18); *Se solicitan datos, el segundo parametro es el valor por defecto, siempre arroja string
+
+NaN = Not a number
+isNaN=(var) *Si no es número devuelve true
